@@ -16,4 +16,5 @@ zephyr_library_sources(
   driverlib/utils.c
   driverlib/prcm.c
   driverlib/pin.c
+  driverlib/flash.c
   )
